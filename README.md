@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Tushar Raj Choudhary, a Mechanical Engineering student and a passionate AI/ML and Full-Stack Developer focused on building scalable real-world products.
+I’m Tushar Raj Choudhary, a Mechanical Engineering student and a passionate AI/ML and Full-Stack Developer focused on building scalable real-world products. I work with modern platforms and enterprise-level technologies while learning to build high-quality, reliable systems.I’m also selected for the McKinsey Forward Program 2025, a global program focused on leadership, problem-solving, and analytical thinking.I love building impactful products — from SafeHire, a smart security-service platform, to AI Finance Tracker using ML/NLP, to LogiTrack for telematics automation, and Tommy, a voice-activated AI assistant. I’ve also developed an IPO Analytics Platform with Django REST APIs and end-to-end workflows
 
 
 ## 🌐 Socials:
